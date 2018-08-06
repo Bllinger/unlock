@@ -106,6 +106,7 @@ if __name__ == '__main__':
     else:
         print "is exist"
     # print(encrypt("000102050403060708"))
+    
     print 'map is under:'
     print '00 01 02'
     print '03 04 05'
